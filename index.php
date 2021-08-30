@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+
+    <link rel="stylesheet" href="left.css">
+    <link rel="stylesheet" href="right.css">
+    <script src="https://kit.fontawesome.com/2759fd8f76.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<!--Container Start-->    
+    <div class="container">
+
+<!--Header-->        
+        <div class="header">
+
+            <div><img src="https://lh3.googleusercontent.com/YRvO7gXsVjjP4E9IX_0PmC11VMZoX1TkM9WdNiwgEuAYDW73Eg3hzUh9PbNVMBer6nbCEm2R8egjFXGezfTpA8lr_MFQp4s1d8-rXWAYQVJmwaPFlMKwl1aRvpwDBfPLKulrWjsolD9ASdi-FiK8sp3vjyQpNb3QsR0w4Vf9SuFcv06HSBeutxx8P85D5C3OogKrUQuuFQ1hKJu7bBuvoZ4drcSmsFrB8XDs3H_BbZNJAfk98RobNASwfexrvQJrzHehZMjDdZyUrpvzWDausVm_0I8Kv6w0PZ53-1KDEi3V5wg8TmPoJ3oBlvaXtzpFoV5l5nMKtOrBixN7i5yuUMLAAL92CaoJsPgKT0Ffk1pivc0Y9WUKfDHz_F8P_s8ncCt1_NSPsU7kKEDmtToqpCvwXUvAT1-KenJ_8bwNsGgwiMz2FK_DogT8EVn_cf6CPMyAqz68-B3pprRgYszPWICcgtGzFtF8xUe6My4inGokxianlYastFeqrSZlpQQd9ZXruA3MfVaZ6cKSCroOqVmfBGF_PRjjDpfB64YmZh04qPqrWjxLHYNoV0c4y1YSN2w6FGMAAUnRpLs1iKSATAti9149zG_u9FOvgNV_L7UEepeIoz8F6zVmoObVkPKiWO88PFnjatZS3vuOQUQN6AFcLN_bKzNrlSm9mJC6XW8Gf1Uu4DoHYwJZXevvGjPyTS4l8UsCKmc1Re1R0W3ATNUz=w792-h914-no?authuser=0" alt="My Photo"></div>
+            
+            <h1><span>ASANAR</span> MOHAMMED ASKY</h1>
+        </div>
+<!--Header End--> 
+
+<!--Main Start-->
+        <div class="main">
+
+<!--LEFT AREA-->
+
+            <div class="left">
+
+<!--CONTACT-->
+
+                <div class="contact">
+
+                    <h4>CONTACT</h4>
+                    <hr/>
+
+                    <p><i class="fa fa-mobile" aria-hidden="true"></i><span>+94775311974</span></p>
+                    <p><i class="fa fa-envelope-o" aria-hidden="true"></i><span>am.asky97@gmail.com</span></p>
+                    <p><i class="fa fa-map-marker" aria-hidden="true"></i><span>Sammanthurai Sri Lanka</span></p>
+                    
+                </div>
+<!--CONTACT End-->                
+
+<!--SKILLS-->
+
+                <div class="skills">
+                    <h4>SKILLS</h4>
+                    <hr/>
+
+                    <li>
+                        <h3>HTML5</h3> <span class="bar"><span class="html">90%</span></span>
+                    </li>
+
+                    <li>
+                        <h3>CSS3</h3> <span class="bar"><span class="css"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>JavaScript</h3> <span class="bar"><span class="js"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>C#</h3> <span class="bar"><span class="c"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>C++</h3> <span class="bar"><span class="c1"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>Java</h3> <span class="bar"><span class="java"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>Python</h3> <span class="bar"><span class="py"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>SQL</h3> <span class="bar"><span class="sql"></span></span>
+                    </li>
+
+                </div>
+<!--SKILLS End-->
+
+<!--LANGUAGE-->
+
+                <div class="languages">
+                    <h4>LANGUAGES</h4>
+                    <hr/>
+
+                    <li>
+                        <h3>Tamil</h3> <span class="bar"><span class="tamil"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>English</h3> <span class="bar"><span class="english"></span></span>
+                    </li>
+
+                    <li>
+                        <h3>Sinhala</h3> <span class="bar"><span class="sinhala"></span></span>
+                    </li>
+                </div>
+<!--LANGUAGE End-->
+
+
+<!--FOLLOW ME-->
+                <div class="follow">
+                    <h4>FOLLOW ME</h4>
+                    <hr id="hr">
+
+                    <p><i class="fa fa-github" aria-hidden="true"></i><span><a href="https://github.com/AM-ASKY-97">github.com/AM-ASKY-97</a></span></p>
+                    <p><i class="fa fa-linkedin" aria-hidden="true"></i><span><a href="https://www.linkedin.com/in/asky-mohammed-02742921b/">asky-02742921b</a></span></p>
+                    <p><i class="fa fa-youtube-play" aria-hidden="true"></i><span><a href="https://www.youtube.com/channel/UC5YJmG0NFNyZaZsvyGcQAWQ">A97-Programming Lan</a></span></p>
+                </div>
+<!--FOLLOW ME End-->
+
+
+<!--HOBBIES-->
+                <div class="hobbies">
+                    <h4>HOBBIES</h4>
+                     <hr id="hr">
+                    <div class="hob">
+                        <p><i class="fa fa-plane" aria-hidden="true"></i><span>Journy</span></p>
+                        <p><i class="fa fa-music" aria-hidden="true"></i><span>Music</span></p>
+                        <p><i class="fas fa-book-reader"></i><span>Reading</span></p>
+                        <p><i class="fas fa-edit"></i><span>Writing</span></p>
+                    </div>
+                   
+                </div>
+
+<!--HOBBIES END-->                
+            </div>
+<!--LEFT AREA End-->
+
+
+
+
+
+<!--RIGHT AREA-->
+
+            <div class="right">
+
+<!--About-->                
+            <div class="About">
+                 
+                <p><i class="fa fa-user-o" aria-hidden="true"></i><span id="h1">ABOUT ME</span></p>
+                <hr>
+    
+                <p id="About">I am a hardworking and ambitious individual with a great passion for the Software & It industry. 
+                              I am currently studying Bachelor of Software Engineering Honors (BSE) at Open University Sri Lanka. 
+                              I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with 
+                              a wide range of clients. <br><br>
+                              I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is 
+                              in life is using my technical know-how to benefit other people and organizations.</p>
+            </div>
+
+<!--Education--> 
+
+            <div class="education">     
+
+                <p><i class="fas fa-user-graduate" aria-hidden="true"></i><span id="h1">EDUCATION QUALIFICATION</span></p>
+                <hr id="edu">
+              
+                <p id="About">Bachelor Of Software Engineering (BSE) at Open University of Sri Lanka [Extended to 2024]</p>
+
+                <p id="About"> Have Passed G.C.E. Advance Level (A/L) Examination in Sri Lanka</p>
+
+                <p id="About"> Have Passed G.C.E. Ordinary Level (O/L) Examination in Sri Lanka</p>
+
+               
+            </div>
+
+
+<!--Professional-->
+
+            <div class="professional">  
+                 
+                <p><i class="fas fa-user-tie" aria-hidden="true"></i><span id="h1">PROFESSIONAL QUALIFICATION</span></p>
+                <hr id="pro">
+
+                <p id="About">Successfully Completed "Information and Communication Technology Technician (ICTT) (NVQ Level-4)" 
+                 at [National Youth Services Council] [Certificate No :108014299].</p>
+
+                <p id="About">Successfully Completed "Computer Network Technician (CNT) (NVQ Level-4)" 
+                 at [Vivekananda College Of Technology].</p>
+
+                <p id="About">Successfully Completed "Diploma In Computerized Accounting (DCA)" 
+                 at [My Hope Compus (Pvt) Ltd Batticaloa] [Reg No. SRL/GC/MHC/DCA/1047].</p>
+
+                <p id="About">Successfully Completed "Intensive Access Programme (IAP)" 
+                 at [Pradeshiya Sabha Sammanthurai] [Reg No. STR/PS/NA/IAP/172].</p>
+
+                 <p id="About">National Diploma in Information Communication Technology (ICT) (Full time)  (NVQ Level - 5) at ampara hardy (R)</p>
+
+            </div>
+
+ <!--Working Expirince-->
+
+            <div class="experience">
+                 <p><i class="fas fa-briefcase" aria-hidden="true"></i><span id="h1">EXPERIENCE</span></p>
+                <hr id="exp">
+
+                <p id="About">worked as a computer Application Assistent at Amara Expertise from 15.01.2016 to 23.03.2018. </p>
+
+                <p id="About">worked as a trainee for practical Training in the field of Information and communication Technology Technician from 24.07.2018 to 28.01.2019.</p>
+
+                <p id="About">worked as a trainee for practical Training in the field of Computer Network Technician from 08.07.2019 to 10.03.2020.</p> 
+                 <br>
+            </div>    
+            </div>
+        </div>
+    </div>
+
+<!-- End Container-->
+
+    <div class="btn1">
+        <div>
+            <button class="btn" onclick="btn()"> print cv </button>
+        </div>
+    </div>
+   
+
+    <script>
+
+       function btn()
+       {
+           window.print()
+       }
+    </script>
+   
+</body>
+</html>
