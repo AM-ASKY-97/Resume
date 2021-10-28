@@ -52,15 +52,31 @@
                     <hr/>
 
                     <li>
-                        <h3>HTML5</h3> <span class="bar"><span class="html">90%</span></span>
+                        <a href="https://www.sololearn.com/Certificate/1014-13414130/jpg"><h3>HTML5</h3> <span class="bar"><span class="html"></span></span></a>
                     </li>
 
                     <li>
-                        <h3>CSS3</h3> <span class="bar"><span class="css"></span></span>
+                        <a href="https://www.sololearn.com/Certificate/1023-13414130/jpg"><h3>CSS3</h3> <span class="bar"><span class="css"></span></span></a>
                     </li>
 
                     <li>
-                        <h3>JavaScript</h3> <span class="bar"><span class="js"></span></span>
+                        <a href="https://www.sololearn.com/certificates/course/en/13414130/1024/landscape/png"><h3>JavaScript</h3> <span class="bar"><span class="js"></span></span></a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.sololearn.com/certificates/course/en/13414130/1068/landscape/png"><h3>Java</h3> <span class="bar"><span class="java"></span></span></a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.sololearn.com/certificates/course/en/13414130/1157/landscape/png"><h3>Python</h3> <span class="bar"><span class="py"></span></span></a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.sololearn.com/certificates/course/en/13414130/1060/landscape/png"><h3>SQL</h3> <span class="bar"><span class="sql"></span></span></a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.sololearn.com/Certificate/1059-13414130/jpg"><h3>PHP</h3> <span class="bar"><span class="css"></span></span></a>
                     </li>
 
                     <li>
@@ -68,19 +84,11 @@
                     </li>
 
                     <li>
+                        <a href="https://www.sololearn.com/Certificate/1082-13414130/jpg"><h3>jQuery</h3> <span class="bar"><span class="py"></span></span></a>
+                    </li>
+
+                    <li>
                         <h3>C++</h3> <span class="bar"><span class="c1"></span></span>
-                    </li>
-
-                    <li>
-                        <h3>Java</h3> <span class="bar"><span class="java"></span></span>
-                    </li>
-
-                    <li>
-                        <h3>Python</h3> <span class="bar"><span class="py"></span></span>
-                    </li>
-
-                    <li>
-                        <h3>SQL</h3> <span class="bar"><span class="sql"></span></span>
                     </li>
 
                 </div>
@@ -149,13 +157,15 @@
                  
                 <p><i class="fa fa-user-o" aria-hidden="true"></i><span id="h1">ABOUT ME</span></p>
                 <hr>
-    
-                <p id="About">I am a hardworking and ambitious individual with a great passion for the Software & It industry. 
+
+		<p id="About">I am a hardworking and ambitious individual with a great passion for the Software & It industry. 
                               I am currently studying Bachelor of Software Engineering Honors (BSE) at Open University Sri Lanka. 
                               I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with 
                               a wide range of clients. <br><br>
                               I am eager to be challenged in order to grow and further improve my IT skills. My greatest passion is 
                               in life is using my technical know-how to benefit other people and organizations.</p>
+    
+               
             </div>
 
 <!--Education--> 
@@ -164,8 +174,8 @@
 
                 <p><i class="fas fa-user-graduate" aria-hidden="true"></i><span id="h1">EDUCATION QUALIFICATION</span></p>
                 <hr id="edu">
-              
-                <p id="About">Bachelor Of Software Engineering (BSE) at Open University of Sri Lanka [Extended to 2024]</p>
+             
+		<p id="About">Bachelor Of Software Engineering (BSE) at Open University of Sri Lanka [Extended to 2024]</p>
 
                 <p id="About"> Have Passed G.C.E. Advance Level (A/L) Examination in Sri Lanka</p>
 
@@ -211,6 +221,7 @@
                 <p id="About">worked as a trainee for practical Training in the field of Computer Network Technician from 08.07.2019 to 10.03.2020.</p> 
                  <br>
             </div>    
+
             </div>
         </div>
     </div>

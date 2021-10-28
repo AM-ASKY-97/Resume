@@ -314,7 +314,7 @@
 
 .sql
 {
-    width: 90%;
+    width: 95%;
     animation: sql 2s;
 }
 
@@ -324,6 +324,25 @@
     {
         width: 0%;
     }
+    100%
+    {
+        width: 95%;
+    }
+}
+
+.sql1
+{
+    width: 90%;
+    animation: s 2s;
+}
+
+@keyframes s
+{
+    0% 
+    {
+        width: 0%;
+    }
+
     100%
     {
         width: 90%;
