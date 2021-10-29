@@ -80,7 +80,7 @@
                     </li>
 
                     <li>
-                        <h3>C#</h3> <span class="bar"><span class="c"></span></span>
+                        <a href="https://www.sololearn.com/Certificate/1089-13414130/jpg"><h3>C</h3> <span class="bar"><span class="c"></span></span></a>
                     </li>
 
                     <li>
